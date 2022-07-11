@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DropBox Firebase</string>
+    <string name="sign_in_with_goolge">Sign in with Goolge</string>
+    <string name="Sign_up">Sign up</string>
+    <string name="get_start">Get Start</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forget_your_password">Forget your Password?</string>
+    <string name="password">Password</string>
+    <string name="Email">Email</string>
+    <string name="sign_in_with_Facebook">Sign in with Facebook</string>
+    <string name="home">Home</string>
+    <string name="Files">Files</string>
+    <string name="Photos">Photos</string>
+    <string name="Account">Account</string>
+    <string name="more">more</string>
+    <string name="FileImage">FileImage</string>
+    <string name="FileUpload">UploadFile</string>
+    <string name="userimage">UserImage</string>
+    <string name="sign_out">Sign out</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+    <string name="web_id">874856254566-5csv0rfd4prufukr1fadbqp27nu8u03t.apps.googleusercontent.com</string>
+    <string name="subscribe">Subscribe</string>
+</resources>
